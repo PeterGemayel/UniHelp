@@ -1,0 +1,40 @@
+.footer{
+  background-color: #00203FFF;
+  height: auto;
+  margin-top: 100px;
+  bottom:0;
+}
+.title2{
+    line-height: 70px;
+    font-weight: 800;
+    font-family: 'League Spartan Regular';
+    text-align: center;
+    font-size: 50px;
+    font: bold;
+    color: #ADEFD1FF;
+    vertical-align: bottom;
+    margin-top: 100px;
+    margin-bottom: 10px;
+    text-align: left;
+    padding-top: 50px;
+    padding-left: 50px;
+}
+.email{
+  display: flex;
+  margin-top: 50px;
+}
+.emaillogo{
+  margin-left: 50px;
+  border-radius: 10px;
+}
+.emaillink{
+  margin-left: 10px;
+  margin-top: 5px;
+  text-decoration: none;
+  color: #ADEFD1FF;
+  line-height: 30px;
+}
+
+@media screen and (max-width: 769px){
+
+}
