@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/UniHelp/static/css/main.43da2650.css",
-    "main.js": "/UniHelp/static/js/main.d308371a.js",
+    "main.js": "/UniHelp/static/js/main.1b7a19fe.js",
     "static/js/787.0acc3afc.chunk.js": "/UniHelp/static/js/787.0acc3afc.chunk.js",
     "static/media/founderpic.png": "/UniHelp/static/media/founderpic.9125b6f0c5f835999eb0.png",
     "static/media/yes-logo.png": "/UniHelp/static/media/yes-logo.a04e38846b7bc92bf069.png",
@@ -11,11 +11,11 @@
     "static/media/usembassy.jpg": "/UniHelp/static/media/usembassy.0bfcc99e310d9a7e72e8.jpg",
     "index.html": "/UniHelp/index.html",
     "main.43da2650.css.map": "/UniHelp/static/css/main.43da2650.css.map",
-    "main.d308371a.js.map": "/UniHelp/static/js/main.d308371a.js.map",
+    "main.1b7a19fe.js.map": "/UniHelp/static/js/main.1b7a19fe.js.map",
     "787.0acc3afc.chunk.js.map": "/UniHelp/static/js/787.0acc3afc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.43da2650.css",
-    "static/js/main.d308371a.js"
+    "static/js/main.1b7a19fe.js"
   ]
 }
