@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/UniHelp/static/css/main.43da2650.css",
+    "main.js": "/UniHelp/static/js/main.d308371a.js",
+    "static/js/787.0acc3afc.chunk.js": "/UniHelp/static/js/787.0acc3afc.chunk.js",
+    "static/media/founderpic.png": "/UniHelp/static/media/founderpic.9125b6f0c5f835999eb0.png",
+    "static/media/yes-logo.png": "/UniHelp/static/media/yes-logo.a04e38846b7bc92bf069.png",
+    "static/media/apjlogo2.png": "/UniHelp/static/media/apjlogo2.82b65ee83ea1048154e1.png",
+    "static/media/dos-logo-light.jpg": "/UniHelp/static/media/dos-logo-light.5b25085c7b75e96ae3bd.jpg",
+    "static/media/Aj-1.png": "/UniHelp/static/media/Aj-1.1264ec2e1ab7aa0b390a.png",
+    "static/media/usembassy.jpg": "/UniHelp/static/media/usembassy.0bfcc99e310d9a7e72e8.jpg",
+    "index.html": "/UniHelp/index.html",
+    "main.43da2650.css.map": "/UniHelp/static/css/main.43da2650.css.map",
+    "main.d308371a.js.map": "/UniHelp/static/js/main.d308371a.js.map",
+    "787.0acc3afc.chunk.js.map": "/UniHelp/static/js/787.0acc3afc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43da2650.css",
+    "static/js/main.d308371a.js"
+  ]
+}
