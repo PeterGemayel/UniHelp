@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/UniHelp/static/css/main.e7d911d1.css",
-    "main.js": "/UniHelp/static/js/main.d83c4c4b.js",
+    "main.css": "/UniHelp/static/css/main.b5acba94.css",
+    "main.js": "/UniHelp/static/js/main.14897d10.js",
     "static/js/787.0acc3afc.chunk.js": "/UniHelp/static/js/787.0acc3afc.chunk.js",
     "static/media/founderpic.png": "/UniHelp/static/media/founderpic.b06a873b03adc1ce3baf.png",
     "static/media/dos-logo-light.png": "/UniHelp/static/media/dos-logo-light.aa77a06b86b4ff29f338.png",
@@ -10,15 +10,17 @@
     "static/media/tg.png": "/UniHelp/static/media/tg.f8535fe3d7e1a150fc16.png",
     "static/media/OIPP.png": "/UniHelp/static/media/OIPP.80cc14a0f2deb9e2c6ee.png",
     "static/media/apjlogo2.png": "/UniHelp/static/media/apjlogo2.82b65ee83ea1048154e1.png",
+    "static/media/lifescholarship.png": "/UniHelp/static/media/lifescholarship.4dea181d93e615df423a.png",
     "static/media/rsi.png": "/UniHelp/static/media/rsi.5d979fab8f59e674fab3.png",
+    "static/media/compass.png": "/UniHelp/static/media/compass.4e91158243b24d0228e0.png",
     "static/media/Aj-1.png": "/UniHelp/static/media/Aj-1.1264ec2e1ab7aa0b390a.png",
     "index.html": "/UniHelp/index.html",
-    "main.e7d911d1.css.map": "/UniHelp/static/css/main.e7d911d1.css.map",
-    "main.d83c4c4b.js.map": "/UniHelp/static/js/main.d83c4c4b.js.map",
+    "main.b5acba94.css.map": "/UniHelp/static/css/main.b5acba94.css.map",
+    "main.14897d10.js.map": "/UniHelp/static/js/main.14897d10.js.map",
     "787.0acc3afc.chunk.js.map": "/UniHelp/static/js/787.0acc3afc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e7d911d1.css",
-    "static/js/main.d83c4c4b.js"
+    "static/css/main.b5acba94.css",
+    "static/js/main.14897d10.js"
   ]
 }
