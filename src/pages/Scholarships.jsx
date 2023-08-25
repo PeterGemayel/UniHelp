@@ -2,15 +2,15 @@ import React from 'react'
 import './Scholarships.css'
 import Footer from '../components/Footer'
 import Navbar from '../components/Navbar'
-import uslogo from '../images/usembassy.jpg'
-import uslogo2 from '../images/dos-logo-light.jpg'
+import uslogo from '../images/usembassy.png'
+import uslogo2 from '../images/dos-logo-light.png'
 import ajialouna from '../images/Aj-1.png'
 import lifelogo from '../images/lifescholarship.png'
 import pj from '../images/apjlogo2.png'
 import lau from '../images/lau.png'
 import tarraf from '../images/Tarraf-Foundation-logo.png'
 import alexis from '../images/logo.png'
-import amideast from '../images/OIPP.jpg'
+import amideast from '../images/OIPP.png'
 function Scholarships() {
   return (
     <div>

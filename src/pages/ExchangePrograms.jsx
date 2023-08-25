@@ -3,7 +3,7 @@ import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
 import './Scholarships.css'
 import yeslogo from '../images/yes-logo.png'
-import tg from '../images/tg.jpg'
+import tg from '../images/tg.png'
 import rsi from '../images/rsi.png'
 function ExchangePrograms() {
   return (

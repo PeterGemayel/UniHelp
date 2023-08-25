@@ -13,9 +13,11 @@ p{
   border: solid;
   border-color: #ADEFD1FF;
   border-width:0.2cm;
+  background-color: #ADEFD1FF;
 }
 .subtitle{
   line-height: 40px;
+  text-decoration: underline;
   font-size: 30px;
 }
 .brief{
@@ -28,7 +30,7 @@ span{
 }
 a{
   text-decoration: none;
-  color: #ADEFD1FF;
+  color: #00203FFF;
 }
 .imaje{
   display: flex;
@@ -55,6 +57,7 @@ a{
   line-height: 25px;
   padding: 10px;
   display: flex;
+  color :#00203FFF;
   flex-direction: column;
 }
 .sidenote{
